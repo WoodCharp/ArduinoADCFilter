@@ -10,7 +10,7 @@ This filter has running averaging for raw values from ADC and exponential smooth
 Few images to see how filter performs. 
 
 I have linear hall-effect A1324 with 4.7uF bypass capacitor on arduino nano board for this test.
-There is no magnet near the sensor. New value is printed every 10ms (115200 baud rate). Blue line is highest value and red is lowest value got from arduino.
+New value is printed every 10ms (115200 baud rate). Blue line is highest value and red is lowest value got from arduino.
 
 Remember, your results may vary.
 
